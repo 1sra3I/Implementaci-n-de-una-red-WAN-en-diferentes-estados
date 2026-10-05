@@ -10,6 +10,7 @@ Packet Tracer practica:
 
 
 Dificultades:
+
 Erorres de conexiones entre computadores de distintos routers
 
 no se conectaban con dispositivos
