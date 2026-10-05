@@ -8,8 +8,10 @@ Packet Tracer practica:
 
 <img width="1023" height="576" alt="image" src="https://github.com/user-attachments/assets/dc20d6d6-269f-4485-94c7-5c00606913b8" />
 
+
 Dificultades:
 Erorres de conexiones entre computadores de distintos routers
+
 no se conectaban con dispositivos
 
 Conexiones:
